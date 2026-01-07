@@ -51,8 +51,8 @@ Estou sempre buscando aprender mais sobre a **indústria dos games** e programa�
 ## 🎧 Ouvindo agora
 
 <div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=edusilvadealmeida&cover_image=true&theme=natemoo&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=edusilvadealmeida&cover_image=true&theme=natemoo&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" />
+  <a href="https://novatorem.vercel.app/api/spotify?spotify_user_id=edusilvadealmeida">
+    <img src="https://novatorem.vercel.app/api/spotify?spotify_user_id=edusilvadealmeida&background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
   </a>
 </div>
 
