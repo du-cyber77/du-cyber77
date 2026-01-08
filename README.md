@@ -50,11 +50,11 @@ Estou sempre buscando aprender mais sobre a **indústria dos games** e programa�
 
 ## 🎧 Ouvindo agora
 
-<div align="center">
-  <a href="https://novatorem.vercel.app/api/spotify?spotify_user_id=edusilvadealmeida">
-    <img src="https://novatorem.vercel.app/api/spotify?spotify_user_id=edusilvadealmeida&background_color=0d1117&border_color=ffffff" alt="Spotify Playing" />
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31i2el5xiuqkxo733is4zutcjqre&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31i2el5xiuqkxo733is4zutcjqre&cover_image=true&theme=spotify-embed&show_offline=false&background_color=ff0f0f&interchange=true&profanity=false&bar_color=030303&bar_color_cover=false&mode=dark">
   </a>
-</div>
+</p>
 
 <br/>
 
