@@ -62,7 +62,7 @@ Estou sempre buscando aprender mais sobre a **indústria dos games** e programa�
 
 <div align="center">
   <br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&isb=true" alt="Quote Dinâmico" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=9E9E9E&center=true&vCenter=true&width=600&lines=Primeiro+resolva+o+problema,+depois+escreva+o+código.;A+simplicidade+é+o+último+grau+de+sofisticação.;Código+bom+é+código+que+funciona+e+é+fácil+de+manter.;Programar+é+a+arte+de+dizer+ao+computador+o+que+fazer." alt="Frases de Programação" />
   <br/>
 </div>
 
